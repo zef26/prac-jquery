@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Webpack output
+dist/
+bundle.js
+bundle.js.map
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
+
+# Optional: если используешь Babel
+babel.config.js
+.cache/
+
+# Optional: если используешь TypeScript (можно удалить, если не актуально)
+*.tsbuildinfo
